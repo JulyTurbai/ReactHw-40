@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactHw-40/static/css/main.c07807ef.css",
+    "main.js": "/ReactHw-40/static/js/main.6e30269d.js",
+    "static/media/back.img": "/ReactHw-40/static/media/back.bc280134c21463b436a3.img",
+    "index.html": "/ReactHw-40/index.html",
+    "main.c07807ef.css.map": "/ReactHw-40/static/css/main.c07807ef.css.map",
+    "main.6e30269d.js.map": "/ReactHw-40/static/js/main.6e30269d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c07807ef.css",
+    "static/js/main.6e30269d.js"
+  ]
+}
